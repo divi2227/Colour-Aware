@@ -4,6 +4,7 @@
 
 Help red-green colorblind people identify if a packaged food item is vegetarian or non-vegetarian, based on the symbol printed on the package (green or red dot in a square).
 
+
 🖼️ Expected Visual Output (on screen)
 
 
@@ -23,6 +24,7 @@ The rectangle is red
 
 Text "NON-VEG" is shown near the symbol (in red)
 
+
 🔊 Expected Audio Output (via speaker)
 
 If the veg/non-veg symbol is detected, the computer will speak aloud:
@@ -32,6 +34,7 @@ If the veg/non-veg symbol is detected, the computer will speak aloud:
 "Non Vegetarian" for a red symbol
 
 This only plays once per detection to avoid repeating constantly while the object is still in frame.
+
 
 🧪 How to Test It
 
