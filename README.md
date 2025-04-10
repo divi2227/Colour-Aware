@@ -1,11 +1,11 @@
 # Colour-Aware
 
-🎯 Goal
+🎯 GOAL:
 
 Help red-green colorblind people identify if a packaged food item is vegetarian or non-vegetarian, based on the symbol printed on the package (green or red dot in a square).
 
 
-🖼️ Expected Visual Output (on screen)
+🖼️ EXPECTED VISUAL OUTPUT (on screen):
 
 
 When you hold a packaged food item up to your webcam that has the veg or non-veg symbol, you’ll see:
@@ -25,7 +25,7 @@ The rectangle is red
 Text "NON-VEG" is shown near the symbol (in red)
 
 
-🔊 Expected Audio Output (via speaker)
+🔊 EXPECTED AUDIO OUTPUT (via speaker):
 
 If the veg/non-veg symbol is detected, the computer will speak aloud:
 
@@ -36,7 +36,7 @@ If the veg/non-veg symbol is detected, the computer will speak aloud:
 This only plays once per detection to avoid repeating constantly while the object is still in frame.
 
 
-🧪 How to Test It
+🧪 HOW TO TEST IT:
 
 1) Hold up a packaged food item with a veg/non-veg symbol toward your webcam.
 
